@@ -1,5 +1,4 @@
-# Snake Game AI
-
+# Snake Game AI 
 ## 🎮 How to Play
 - Use **Arrow Keys** (↑ ↓ ← →) to move the snake.
 - Eat the red food blocks to increase your score.
