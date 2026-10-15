@@ -12,6 +12,7 @@
 - Polished UI with clean layout and responsive canvas.
 
 ## 🤖 AI Tools Used
+
 - **Microsoft Copilot** for code generation, debugging, and polishing.
 - AI assistance for creating game logic, README structure, and feature ideas.
 
