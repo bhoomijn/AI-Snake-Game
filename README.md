@@ -27,5 +27,6 @@
 - No external paid assets used.
 
 ## 🌍 Browser Requirements
+
 - Works on Chrome, Edge, Firefox, Safari.
 - Supports both desktop (keyboard) and mobile (touch with on‑screen buttons planned).
